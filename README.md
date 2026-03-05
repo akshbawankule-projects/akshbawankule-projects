@@ -29,4 +29,4 @@ Senior Java Developer with 10+ years of experience building scalable backend sys
 
 ## 📫 Connect With Me
 
-LinkedIn: linkedin.com/in/akshay-bawankule
+LinkedIn: https://www.linkedin.com/in/akshay-bawankule/
