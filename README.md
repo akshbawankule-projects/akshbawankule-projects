@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Akshay Bawankule
 
-<!--
-**akshbawankule-projects/akshbawankule-projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Java Developer with 10+ years of experience building scalable backend systems.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Microservices
+- Kafka
+- Redis
+- MySQL / PostgreSQL
+- Docker
+- Kubernetes
+- GCP
+
+## 💻 What I Work On
+
+- Scalable Microservices Architecture
+- Distributed Systems
+- REST API Design
+- High Performance Backend Systems
+
+## 📚 Currently Exploring
+
+- Cloud Native Development
+- Kubernetes
+- Event Driven Architecture
+
+## 📫 Connect With Me
+
+LinkedIn: linkedin.com/in/akshay-bawankule
